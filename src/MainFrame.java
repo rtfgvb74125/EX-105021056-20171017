@@ -15,8 +15,8 @@ public class MainFrame extends JFrame{
     private JButton jbtnExit = new JButton("Exit");
     private JButton jbtnLogin = new JButton("Login");
     private Container cp;
-    private String Name = "Formosa";
-    private String Password = "Taiwan";
+    private String Name = "h304";
+    private String Password = "23323456";
     public MainFrame(){
         init();
     }
